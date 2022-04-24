@@ -2,6 +2,7 @@
 <h3 align="center">Back-end developer studying Data Science</h3>
 
 - 🔭 I’m currently working on **SCOD Brasil**
+- 🌱 I’m currently learning **PySpark and AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
