@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angelo Spinardi</h1>
 <h3 align="center">Back-end developer studying Data Science</h3>
 
-- 🔭 I’m currently working on **SCOD Brasil**
-- 🌱 I’m currently learning **PySpark and AWS**
+- 🔭 I’m currently working on **Predify S/A**
+- 🌱 I’m currently learning **Data Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
