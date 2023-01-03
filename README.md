@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelo Spinardi</h1>
-<h3 align="center">Back-end developer studying Data Science</h3>
+<h3 align="center">Working with Data Engineer</h3>
 
 - 🔭 I’m currently working on **3778**
 - 🌱 I’m currently learning **Data Engineer**
